@@ -16,7 +16,7 @@ A comprehensive nutrition and fitness planning platform with AI-powered personal
 ### Prerequisites
 
 - Node.js 18+ 
-- npm or yarn
+- npm  yarn
 - Stripe account
 - Zapier account (webhooks already configured)
 
